@@ -91,3 +91,12 @@ print("Nilai tertinggi  =",min(list_nilai))
 #     if i % 5 == 0:
 #         print(i)
 
+#def hitung_pangkat(bilangan, pangkat):
+#  if pangkat > 1:
+#    return bilangan * hitung_pangkat(bilangan, pangkat - 1)
+#
+# return bilangan
+
+#hasil = hitung_pangkat(bilangan, pangkat)
+#print(f'Hasil = {hasil}')
+
